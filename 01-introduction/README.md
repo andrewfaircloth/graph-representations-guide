@@ -13,7 +13,7 @@ A graph is a collection of nodes and verticies that represent a relationship. Th
 ### Types of Graphs
 1. Directed vs Undirected Graphs:
 - Directed graphs are graphs in which edges have a direction. This means an edge from vertex A to B does not imply an edge from B to A. This is used in relationships such as web pages.
--Undirected graphs are graph in which edges have no direction. If there is an edge between vertex A and B, then there is an edge between B and A. This can be seen in an exmaple of friendship on social networks like Facebook.
+- Undirected graphs are graph in which edges have no direction. If there is an edge between vertex A and B, then there is an edge between B and A. This can be seen in an exmaple of friendship on social networks like Facebook.
 2. Weighted vs Unweighted Graphs:
 - In weighted graphs, each edge has a weight property that represents values such as distance and cost. An example would be the time it take between two bus stops in a city.
 - In an unweighted graph, all edges have the same weight which means that all edges are equal. All these graphs care about is that there is a relationship between two verticies.
