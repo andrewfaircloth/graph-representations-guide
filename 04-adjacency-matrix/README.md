@@ -5,7 +5,7 @@ An Adjacency Matrix is a 2D array that stores each element at positions [from][t
 Adjacecny Matricies are most commonly used for dense graphs, meaning that each vertex has many edges. This representation provides quick access to check if an edge exists between two verticies which is helpful in many algorithms.
 ## C++ Implementation
 Adjacency Matricies are also usually represented as:
-> vector<vector<int>>
+- vector<vector<int>>
 Where int represents the weight or lack thereof. 
 ## Code Example
-[AdjacencyMatrix.cpp](/04-adjacency-matrix/AdjacencyMatrix.cpp)
+[AdjacencyMatrix.cpp](/AdjacencyMatrix.cpp)
