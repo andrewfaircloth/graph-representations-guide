@@ -5,8 +5,9 @@ Vertex - A point on a graph that represents a single entity.
 Edge - A connection between two verticies that represents a relationship.
 Adjacency - When verticies are adjacent, it means that there is an edge connecting them together.
 Degree - The number of edges connected to a vertex.
-Path - a sequence on connection verticies.
+Path - A sequence on connection verticies.
 Cycle - When there is a path in a graph where the starting and ending vertex are the same.
+Connected - A type of graph where all of the verticies are connected to each other and there is no isolated vertex.
 ## What is a graph?
 ### Definition
 A graph is a collection of nodes and verticies that represent a relationship. These can represent things in real world problems such as social networks, web pages and transportation.
