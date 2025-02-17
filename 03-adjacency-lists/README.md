@@ -6,6 +6,7 @@ Adjacency Lists are best used when a graph is very **sparse. This mean that each
 ## C++ Implementation
 In C++, Adjacency Lists are represented using
 - std::vector<vector<int>> adjList
+
 This vector of a vector allows us to traverse the graph quite easily using built-in vector functions
 ## Code Example
 [AdjacencyList.cpp](/03-adjacency-lists/AdjacencyList.cpp)

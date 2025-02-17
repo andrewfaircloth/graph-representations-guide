@@ -10,4 +10,4 @@ The implementation of Edge Lists are most commonly seen as:
 Where the keys are the vertex's assosiated number.
 This can be changed to a string, but int is the most common and easy way to represent a vertex.
 ## Code Example
-[EdgeList.cpp](/EdgeList.cpp)
+[EdgeList.cpp](/05-edge-list/EdgeList.cpp)

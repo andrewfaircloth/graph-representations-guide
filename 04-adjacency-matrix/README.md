@@ -6,6 +6,7 @@ Adjacecny Matricies are most commonly used for dense graphs, meaning that each v
 ## C++ Implementation
 Adjacency Matricies are also usually represented as:
 - vector<vector<int>>
+
 Where int represents the weight or lack thereof. 
 ## Code Example
-[AdjacencyMatrix.cpp](/AdjacencyMatrix.cpp)
+[AdjacencyMatrix.cpp](/04-adjacency-matrix/AdjacencyMatrix.cpp)
