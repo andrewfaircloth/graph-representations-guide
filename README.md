@@ -12,5 +12,6 @@ This repository covers an in depth guide on what graphs are, how they are repres
 8. [Appendix - Complex Graph Algorithms](/08-appendix/)
 
 ## Credits
-This guide was written by Andrew Faircloth.
+This guide was written by Andrew Faircloth. 
 Some material comes from [Geeks For Geeks](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/) and [Stack Overflow](https://stackoverflow.blog/2022/05/26/the-complete-beginners-guide-to-graph-theory/)
+Much of this information also comes from notes taken from the University of Florida's COP3530 course.

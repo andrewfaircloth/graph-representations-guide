@@ -1,4 +1,3 @@
-# Complex Graph Algorithms
-## Weighted Graphs
-## Directed Graphs
+# Appendix - Complex Graph Algorithms
+## Minimum Spanning Tree
 ## Resources

@@ -11,3 +11,9 @@ Each representation apply a different space and time complexity for different op
 -  Adjacency Lists are best chosen for sparse graphs, where verticies have a small number of neighbors. 
 - Adjacency Matrix are best chosen for dense graphs where verticies have many neighbors. 
 - Edge Lists are best for when all you need is to store edges without performing frequent operations.
+## API
+Some common functions that are included in each representation are:
+- Add/Remove vertex - adds or removes a vertex from the graph
+- Add/Remove edge - adds or removes an edge from the graph
+- Check for edge - checks if the edge exists in the graph (boolean value)
+- Traversals - algorithms such as BFS and DFS
