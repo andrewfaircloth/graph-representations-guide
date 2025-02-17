@@ -8,7 +8,7 @@ The three main types of graph representation are:
 - Edge List
 ## Comparison of Representations
 Each representation apply a different space and time complexity for different operation.
--  Adjacency Lists are best chosen for sparse graphs, where verticies have a small number of neighbors. 
+- Adjacency Lists are best chosen for sparse graphs, where verticies have a small number of neighbors. 
 - Adjacency Matrix are best chosen for dense graphs where verticies have many neighbors. 
 - Edge Lists are best for when all you need is to store edges without performing frequent operations.
 ## API
