@@ -6,6 +6,7 @@ Edge Lists are most commonly used when the focus of the graph is on the edges th
 ## C++ Implementation
 The implementation of Edge Lists are most commonly seen as:
 - std::vector<std::pair<int, int>>
+
 Where the keys are the vertex's assosiated number.
 This can be changed to a string, but int is the most common and easy way to represent a vertex.
 ## Code Example
